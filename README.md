@@ -79,3 +79,9 @@ Contiene la metadata asociada a cada uno de los contenidos. Las variables inclui
 - **modify_date:** fecha de modificación del activo
 - **start_vod_date:** fecha desde la cual el activo se encuentra disponible en la plataforma
 - **end_vod_date:** fecha de finalización de la disponibilidad del activo en la plataforma
+
+## INTEGRANTES DEL GRUPO
+- Martin Carlos Carchano Vargas
+- Paula Viviana Gaustella
+- Yevgeniya Beyfeld
+- Laura Gabriela Páez
